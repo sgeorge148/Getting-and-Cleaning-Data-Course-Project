@@ -10,4 +10,6 @@ Available at: `https://archive.ics.uci.edu/dataset/240/human+activity+recognitio
 ### Files
 
 `run_analysis.R` describes the data preparation and subsequent process required by the project's intructions
-`codebook.md`contains the codes 
+
+`codebook.md` contains the codes 
+
