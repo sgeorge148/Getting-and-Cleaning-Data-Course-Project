@@ -9,7 +9,7 @@ if (!file.exists(data)){
 }  
 
 if (!file.exists("UCI HAR Dataset")) { 
-  unzip(filename) 
+  unzip(data) 
 }
 
 #Naming my data frames
